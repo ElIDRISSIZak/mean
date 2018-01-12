@@ -1,0 +1,55 @@
+.padding-answer-line-mapping
+{
+    padding-bottom:8px;
+}
+
+.answer-container
+{
+    width:40px;
+    height:40px;
+    background-color:#ccc;
+    border:1px solid #ccc;
+    margin:2px;
+    float:left;
+    text-align:center;
+    padding-top:8px;
+    cursor:pointer;
+    position:relative;
+}
+
+.answer-container:hover, .answer-container:focus, .answer-container:active
+{
+    background-color: #0076e9;
+    color: white;
+    border: 1px solid #0076e9;
+}
+
+.round-pointer-right
+{
+    position: absolute;
+    background-color:#ccc;
+    cursor:pointer;
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    right:0px;
+    top:14px;
+    margin-right:-20px;
+}
+
+.round-pointer-left
+{
+    position: absolute;
+    background-color:#ccc;
+    cursor:pointer;
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    left:0px;
+    top:14px;
+    margin-left:-20px;
+}
+
+.selected {
+    background-color: red;
+}

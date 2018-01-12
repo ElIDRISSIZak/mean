@@ -1,0 +1,2367 @@
+<Classifications>
+<Classification ID="GMC01701" UserTypeID="V2.Level">
+        <Name>Bureau</Name>
+        <MetaData>
+          <Value AttributeID="V2.Cl.SeoTitle">Bureau - Manutan</Value>
+          <Value AttributeID="V2.Cl.SeoDescription">Pour aménager votre bureau, Manutan vous propose un large choix de produits: sièges de bureau, mobilier, accessoires, etc. Trouvez sur notre site des fournitures d'excellente qualité!</Value>
+        </MetaData>
+        <Classification ID="GMC01606" UserTypeID="V2.Level">
+          <Name>Affichage</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Affichage - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Vous avez besoin d'un support pour afficher vos informations? Optez pour nos panneaux et vitrines. Nos matériels sont durables et conviennent à  un usage intensif. Nous disposons également d'accessoires pour améliorer vos tableaux.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC00948" UserTypeID="V2.Level">
+            <Name>Accessoires pour vitrine</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoire vitrine chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour vitrine sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00949" UserTypeID="V2.Level">
+            <Name>Panneau électronique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Panneaux lumineux, panneau affichage electronique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre panneau electronique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00950" UserTypeID="V2.Level">
+            <Name>Panneau en liège et tissu</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Panneau en liège et tissu - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pour afficher des informations, l'usage des panneaux en liège et tissu est idéal. Manutan vous propose différents modèles de tableaux design et résistants. Fiez-vous à  la qualité de nos articles.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00951" UserTypeID="V2.Level">
+            <Name>Pochette murale</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Pochette murale chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre pochette murale sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00952" UserTypeID="V2.Level">
+            <Name>Rail d'affichage</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Rail d'affichage chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre rail d'affichage sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00953" UserTypeID="V2.Level">
+            <Name>Vitrine d'affichage</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vitrine affichage, interieur et exterieur chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vitrine d'affichage sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00954" UserTypeID="V2.Level">
+            <Name>Vitrine d'affichage personnalisable</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vitrine modulable, vitrine d'affichage personnalisable chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vitrine d'affichage personnalisable sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01552" UserTypeID="V2.Level">
+          <Name>Armoire et rangement</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Armoire bureau, mobilier bureau chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez vos armoires et rangements en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC00802" UserTypeID="V2.Level">
+            <Name>Armoire</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Armoire de bureau, rangement bureautique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre armoire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+            <Classification ID="GMC00017" UserTypeID="V2.Level">
+              <Name>Accessoires pour armoire</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Rangement armoire, accessoire armoire chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour armoire : Tout l'univers de l'armoire en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00077" UserTypeID="V2.Level">
+              <Name>Armoire métal</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Armoire a monter, armoire de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Armoire à monter : Tout l'univers de l'armoire en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00755" UserTypeID="V2.Level">
+              <Name>Armoire bois</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Armoire bois, armoire de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Armoire à monter : Tout l'univers de l'armoire en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00955" UserTypeID="V2.Level">
+            <Name>Bibliothèque</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Rangement bibliothèque, rangement amoire chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre bibliotheque sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00956" UserTypeID="V2.Level">
+            <Name>Classement à plat</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Rangement document, rangement dossier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre classement à plat sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00957" UserTypeID="V2.Level">
+            <Name>Classement pour dossiers suspendus</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Dossiers suspendus, rangement suspendu chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre classement pour dossiers suspendus sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00958" UserTypeID="V2.Level">
+            <Name>Colonne rotative pour classeurs</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Classeur rotatif, colonne rotative classeur chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre colonne rotative pour classeurs sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00810" UserTypeID="V2.Level">
+            <Name>Desserte</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Desserte, servante atelier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre desserte sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+            <Classification ID="GMC00026" UserTypeID="V2.Level">
+              <Name>Accessoires pour desserte</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoire desserte, materiel bureautique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour desserte : Tout l'univers de la desserte en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00278" UserTypeID="V2.Level">
+              <Name>Desserte de bureau</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Desserte bureau, mobilier rangement chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Desserte de bureau : Tout l'univers de la desserte en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00279" UserTypeID="V2.Level">
+              <Name>Desserte informatique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Desserte informatique, mobilier informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Desserte informatique : Tout l'univers de la desserte en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00280" UserTypeID="V2.Level">
+              <Name>Desserte pour télévision</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Desserte pour television, mobilier tv chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Desserte pour télévision : Tout l'univers de la desserte en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00834" UserTypeID="V2.Level">
+            <Name>Meuble de rangement</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Meuble de rangement, mobilier de rangement chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre meuble de rangement sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01576" UserTypeID="V2.Level">
+          <Name>Chauffage, climatisation et traitement de l'air</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Chauffage, climatisation et traitement de l'air chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre chauffage, climatisation et traitement de l'air en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+          <Classification ID="GMC00855" UserTypeID="V2.Level">
+            <Name>Chauffage</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chauffage - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Le chauffage vous garantira une température ambiante que ce soit en hiver ou en été. Trouvez sur notre boutique en ligne toute une gamme de matériels de chauffage adaptés à vos besoins.</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC00110" UserTypeID="V2.Level">
+              <Name>Bain d'huile</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Radiateur bain d huile, chauffage bain huile chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Bain d'huile : Tout l'univers du chauffage en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00196" UserTypeID="V2.Level">
+              <Name>Chauffage soufflant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Radiateur soufflant, chauffage soufflant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Chauffage soufflant : Tout l'univers du chauffage en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00252" UserTypeID="V2.Level">
+              <Name>Convecteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Convecteur electrique, convecteur radiant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Convecteur : Tout l'univers du chauffage en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00513" UserTypeID="V2.Level">
+              <Name>Panneau rayonnant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Panneau rayonnant, radiateur panneau rayonnant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Panneau rayonnant : Tout l'univers du chauffage en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00557" UserTypeID="V2.Level">
+              <Name>Poêle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Poele chauffage chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Poêle : Tout l'univers du chauffage en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00959" UserTypeID="V2.Level">
+            <Name>Climatiseur</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Climatiseur mobile, climatiseur portable chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre climatiseur sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00960" UserTypeID="V2.Level">
+            <Name>Rafraîchisseur d'air</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Rafraichisseur d'air, refroidisseur d'air chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre rafraichisseur d'air sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00961" UserTypeID="V2.Level">
+            <Name>Traitement de l'air</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Traitement de l'air, assainisseur d air chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre traitement de l'air sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00962" UserTypeID="V2.Level">
+            <Name>Ventilateur</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Ventilateur, ventilateur industriel chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre ventilateur sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01580" UserTypeID="V2.Level">
+          <Name>Classement et archivage</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Classement dossier, classement document chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez vos fournitures de classement et archivage en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC00132" UserTypeID="V2.Level">
+            <Name>Boîte à fiches</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Boite a fiche, rangement document chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Boîte à fiches : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00133" UserTypeID="V2.Level">
+            <Name>Boîte et caisse d'archives</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Boite archive, caisse archive chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Boîte et caisse d'archives : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00202" UserTypeID="V2.Level">
+            <Name>Chemise à élastique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Pochette elastique, chemise elastique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Chemise à élastique : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00203" UserTypeID="V2.Level">
+            <Name>Chemise de présentation</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chemise presentation, protege document chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Chemise de présentation : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00204" UserTypeID="V2.Level">
+            <Name>Chemise-dossier</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chemise dossier, organisation dossier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Chemise-dossier : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00211" UserTypeID="V2.Level">
+            <Name>Classement pour cartes de visite</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Porte carte de visite, classement carte de visite chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Classement pour cartes de visite : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00212" UserTypeID="V2.Level">
+            <Name>Classeur</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Classeur dossier, classement dossier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Classeur : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00253" UserTypeID="V2.Level">
+            <Name>Corbeille à courrier</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Corbeille courrier, fourniture de bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Corbeille à courrier : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00289" UserTypeID="V2.Level">
+            <Name>Dossier suspendu</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Dossier suspendu, classement dossier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Dossier suspendu : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00321" UserTypeID="V2.Level">
+            <Name>Ensemble d'accessoires de bureau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoire bureau, fourniture bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Ensemble d'accessoires de bureau : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00392" UserTypeID="V2.Level">
+            <Name>Intercalaire</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Intercalaire, protege document chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Intercalaire : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00465" UserTypeID="V2.Level">
+            <Name>Module de classement</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Module de classement, classement dossier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Module de classement : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00495" UserTypeID="V2.Level">
+            <Name>Organiseur de tiroir</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Organiseur tiroir, rangement tiroir chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Organiseur de tiroir : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00555" UserTypeID="V2.Level">
+            <Name>Pochette plastique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Pochette plastique, pochette transparente chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pochette plastique : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00571" UserTypeID="V2.Level">
+            <Name>Porte-revues</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Porte revue, porte document chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Porte-revues : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00574" UserTypeID="V2.Level">
+            <Name>Pot à crayons</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Pot a crayon, porte crayon chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pot à crayons : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00584" UserTypeID="V2.Level">
+            <Name>Protège-documents</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Protege document, pochette document chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Protège-documents : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00655" UserTypeID="V2.Level">
+            <Name>Sous-mains</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Sous main, accessoire bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Sous-mains : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00722" UserTypeID="V2.Level">
+            <Name>Trieur à cases</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Trieur document, meuble classement chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Trieur à cases : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00723" UserTypeID="V2.Level">
+            <Name>Trieur et parapheur</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Trieur bureau, papeterie bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Trieur et parapheur : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00724" UserTypeID="V2.Level">
+            <Name>Trieur pour armoire</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Rangement pour armoire, bloc trieur chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Trieur pour armoire : Tout l'univers du classement en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01607" UserTypeID="V2.Level">
+          <Name>Cloison</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Cloison - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Les cloisons offrent de nombreuses possibilités pour aménager et organiser des espaces de travail ou tout simplement prolonger une paroi.. Consultez tous nos produits sur Manutan.</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+          <Classification ID="GMC00966" UserTypeID="V2.Level">
+            <Name>Cloison de séparation</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Cloison de séparation - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Vous avez un grand espace que vous souhaitez compartimenter ? Optez pour une cloison de séparation qui allie robustesse et esthétisme.</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00967" UserTypeID="V2.Level">
+            <Name>Écran de séparation pour bureau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Ecran de separation, panneau de separation chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre écran de séparation pour bureau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01583" UserTypeID="V2.Level">
+          <Name>Restauration et pause-café</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Fournitures collectivité et cafetéria chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre equipement pour collectivité et cafétéria en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+          <Classification ID="GMC00969" UserTypeID="V2.Level">
+            <Name>Alimentation</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Alimentation, produits alimentaires chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre alimentation sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC1942085" UserTypeID="V2.Level">
+              <Name>Boisson chaude</Name>
+            </Classification>
+            <Classification ID="GMC1942086" UserTypeID="V2.Level">
+              <Name>Boisson froide</Name>
+            </Classification>
+            <Classification ID="GMC1942087" UserTypeID="V2.Level">
+              <Name>Confiserie</Name>
+            </Classification>
+            <Classification ID="GMC2554990" UserTypeID="V2.Level">
+              <Name>Biscuit sucré</Name>
+            </Classification>
+            <Classification ID="GMC2554991" UserTypeID="V2.Level">
+              <Name>Biscuit apéritif</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00875" UserTypeID="V2.Level">
+            <Name>Mobilier de collectivité et restauration</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chaise et tabouret de collectivité, Chaise de collectivité, tabouret de collectivité chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre chaise et votre tabouret de collectivite sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC00970" UserTypeID="V2.Level">
+              <Name>Banc de collectivité</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Banc de collectivité, banc collectivité chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Commandez votre banc de collectivite sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00972" UserTypeID="V2.Level">
+              <Name>Ensemble table et chaise polyvalente</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ensemble table et chaise polyvalente, ensemble table, chaise polyvalente chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Commandez votre table et chaise polyvalente sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00974" UserTypeID="V2.Level">
+              <Name>Meuble et bloc-cuisine</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Meuble et bloc-cuisine, meuble, bloc-cuisine, chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Commandez votre meuble et bloc-cuisine sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00180" UserTypeID="V2.Level">
+              <Name>Chaise standard</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Chaise, chaise pliante, chaises classic chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Chaise : Tout l'univers de la chaise et tabouret de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00181" UserTypeID="V2.Level">
+              <Name>Chaise pliante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Chaise pliante, chaises pliantes bois chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Chaise pliante : Tout l'univers de la chaise et tabouret de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00379" UserTypeID="V2.Level">
+              <Name>Guéridon mange-debout</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Guéridon mange-debout, guéridon mange debout chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Guéridon mange-debout : Tout l'univers de la table de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00681" UserTypeID="V2.Level">
+              <Name>Table pliante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Table pliante, table pliante legere chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Table pliante : Tout l'univers de la table de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00683" UserTypeID="V2.Level">
+              <Name>Table standard</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Table standard, table chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Table standard : Tout l'univers de la table de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00685" UserTypeID="V2.Level">
+              <Name>Tabouret</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tabouret, tabouret haut chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Tabouret : Tout l'univers de la chaise et tabouret de collectivité en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00871" UserTypeID="V2.Level">
+            <Name>Électroménager</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Électroménager - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pensez à équiper vos bureaux d’électroménagers qui amélioreront votre quotidien. Théière, cafetière, bouilloire et d'autres produits de grande marque sont disponibles sur Manutan .</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC00159" UserTypeID="V2.Level">
+              <Name>Cafetière, théière et bouilloire</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cafetière, théière, bouilloire chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Cafetière, théière et bouilloire : Tout l'univers de l'électroménager en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00269" UserTypeID="V2.Level">
+              <Name>Cuisson</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cuisson, four, micro-ondes chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Cuisson : Tout l'univers de l'électroménager en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00356" UserTypeID="V2.Level">
+              <Name>Fontaine à eau</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Fontaine à eau, fontaine eau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Fontaine à eau : Tout l'univers de l'électroménager en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00416" UserTypeID="V2.Level">
+              <Name>Lave-vaisselle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Lave-vaisselle, lave vaisselle chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Lave-vaisselle : Tout l'univers de l'électroménager en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00608" UserTypeID="V2.Level">
+              <Name>Réfrigérateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Réfrigérateur, réfrigérateur 2 portes, réfrigérateurs de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Réfrigérateur : Tout l'univers de l'électroménager en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00912" UserTypeID="V2.Level">
+            <Name>Mobilier pour événementiel</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Mobilier pour événementiel chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre mobilier pour evenementiel sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC1942080" UserTypeID="V2.Level">
+              <Name>Table</Name>
+            </Classification>
+            <Classification ID="GMC1942081" UserTypeID="V2.Level">
+              <Name>Chaise et tabouret</Name>
+            </Classification>
+            <Classification ID="GMC1942082" UserTypeID="V2.Level">
+              <Name>Fauteuil et canapé</Name>
+            </Classification>
+            <Classification ID="GMC1942083" UserTypeID="V2.Level">
+              <Name>Chariot de transport</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00975" UserTypeID="V2.Level">
+            <Name>Vaisselle</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vaisselle, vaisselle biodégradable chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vaisselle sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC00968" UserTypeID="V2.Level">
+              <Name>Accessoires pour cuisine</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoires pour cuisine, accessoires cuisine chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour cuisine sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC1942094" UserTypeID="V2.Level">
+              <Name>Assiette</Name>
+            </Classification>
+            <Classification ID="GMC1942096" UserTypeID="V2.Level">
+              <Name>Verre, gobelet</Name>
+            </Classification>
+            <Classification ID="GMC1942098" UserTypeID="V2.Level">
+              <Name>Couvert</Name>
+            </Classification>
+            <Classification ID="GMC1942099" UserTypeID="V2.Level">
+              <Name>Nappe et serviette</Name>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01572" UserTypeID="V2.Level">
+          <Name>Décoration</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Decoration bureau, déco bureau chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre décoration en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC00839" UserTypeID="V2.Level">
+            <Name>Cadre et système de fixation</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Encadrement, système d'accroche chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre cadre et systeme de fixation sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00061" UserTypeID="V2.Level">
+              <Name>Affiche</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Affiche bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Affiche : Tout l'univers du cadre et système de fixation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00158" UserTypeID="V2.Level">
+              <Name>Cadre</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cadre photo, cadre tableau, cadre affiche chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Cadre : Tout l'univers du cadre et système de fixation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00673" UserTypeID="V2.Level">
+              <Name>Système de fixation</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Systeme de fixation chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Système de fixation : Tout l'univers du cadre et système de fixation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00976" UserTypeID="V2.Level">
+            <Name>Carte géographique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Carte geographique, carte murale chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre carte geographique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00977" UserTypeID="V2.Level">
+            <Name>Décoration de fêtes</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Articles de fête, décoration festive chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre décoration de fetes sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00978" UserTypeID="V2.Level">
+            <Name>Film adhésif pour vitre</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Film autocollant pour vitre, film adhésif pour vitrage chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre film adhésif pour vitre sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00979" UserTypeID="V2.Level">
+            <Name>Horloge</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Horloge murale, horloge de bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre horloge sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00980" UserTypeID="V2.Level">
+            <Name>Plante artificielle</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Plante artificielle, plante plastique, fausse plante chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre plante artificielle sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00981" UserTypeID="V2.Level">
+            <Name>Vitrine d'exposition</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vitrine d exposition, vitrine de présentation chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vitrine d'exposition sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01569" UserTypeID="V2.Level">
+          <Name>Fournitures de bureau</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Fournitures de bureau - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Pour être plus efficace, il est essentiel d’avoir des fournitures de bureau de qualité. Consultez notre site de vente en ligne et faites votre choix parmi notre catalogue de produit.</Value>
+            <Value AttributeID="V2.CategoryRole">Routine</Value>
+          </MetaData>
+          <Classification ID="GMC00889" UserTypeID="V2.Level">
+            <Name>Écriture</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Fournitures de bureau, stylo, crayon chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre fourniture de bureau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00257" UserTypeID="V2.Level">
+              <Name>Correcteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tipp ex, stylo correcteur, effaceur encre chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Correcteur : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00264" UserTypeID="V2.Level">
+              <Name>Crayon et porte-mines</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Crayon, porte mine, crayon criterium chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Crayon et porte-mines : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00375" UserTypeID="V2.Level">
+              <Name>Gomme</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Gomme chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Gomme : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00438" UserTypeID="V2.Level">
+              <Name>Marqueur effaçable</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Marqueur effacable chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Marqueur effaçable : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00439" UserTypeID="V2.Level">
+              <Name>Marqueur permanent</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Marqueur permanent, marqueur indelebile chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Marqueur permanent : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00659" UserTypeID="V2.Level">
+              <Name>Stylo</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Stylo plume, stylo bille, stylo feutre chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Stylo : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00669" UserTypeID="V2.Level">
+              <Name>Surligneur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Surligneur, feutre stabilo chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Surligneur : Tout l'univers de la papeterie, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00840" UserTypeID="V2.Level">
+            <Name>Papeterie</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Papeterie en ligne, papeterie bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre papeterie sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00062" UserTypeID="V2.Level">
+              <Name>Agenda</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Agenda organiseur, agenda professionnel chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Agenda : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00131" UserTypeID="V2.Level">
+              <Name>Bloc et cahier</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cahiers, bloc notes, bloc papier chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Bloc et cahier : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00163" UserTypeID="V2.Level">
+              <Name>Calendrier</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Calendriers, calendrier professionnel chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Calendrier : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00165" UserTypeID="V2.Level">
+              <Name>Carnet autocopiant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Carnet autocopiant, carnet a souche chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Carnet autocopiant : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00325" UserTypeID="V2.Level">
+              <Name>Enveloppe</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Enveloppes, enveloppe bulle, enveloppe kraft chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Enveloppe : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00335" UserTypeID="V2.Level">
+              <Name>Étiquette</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Etiquettes, etiquette autocollante chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Étiquette : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00436" UserTypeID="V2.Level">
+              <Name>Manifold et registre</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Manifold, registres chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Manifold et registre : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00486" UserTypeID="V2.Level">
+              <Name>Notes repositionnables et index</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Post it, note repositionnable chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Notes repositionnables et index : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00517" UserTypeID="V2.Level">
+              <Name>Papier</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Papier, ramette papier, papier bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Papier : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00565" UserTypeID="V2.Level">
+              <Name>Porte-bloc</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Porte bloc, porte bloc note chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Porte-bloc : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00583" UserTypeID="V2.Level">
+              <Name>Protège-cahier</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Protege cahier, couvre cahier chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Protège-cahier : Tout l'univers de la papeterie en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00836" UserTypeID="V2.Level">
+            <Name>Petites fournitures</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Fourniture de bureau, matériel de bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos petites fournitures sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00054" UserTypeID="V2.Level">
+              <Name>Adhésif</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ruban Adhésif, devidoir scotch chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Adhésif : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00063" UserTypeID="V2.Level">
+              <Name>Agrafeuse</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Agrafeuse, agrafeuse professionnelle chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Agrafeuse : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00096" UserTypeID="V2.Level">
+              <Name>Attaches</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Agrafes, punaises, tombones chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Attaches : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00209" UserTypeID="V2.Level">
+              <Name>Ciseaux</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ciseaux, ciseaux bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Ciseaux : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00228" UserTypeID="V2.Level">
+              <Name>Colle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Colle, colle forte chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Colle : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00271" UserTypeID="V2.Level">
+              <Name>Cutter</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cutter, cutter professionnel chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Cutter : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00521" UserTypeID="V2.Level">
+              <Name>Perforateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Perforateur, perforateur de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Perforateur : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00609" UserTypeID="V2.Level">
+              <Name>Règle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">regles, règle cm chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Règle : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00694" UserTypeID="V2.Level">
+              <Name>Tampon</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tampon encreur, tampon dateur, tampon numeroteur chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Tampon : Tout l'univers des petites fournitures en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00982" UserTypeID="V2.Level">
+            <Name>Traitement du courrier</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Suivi de courrier, gestion du courrier, traitement du courrier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre traitement du courrier sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01551" UserTypeID="V2.Level">
+          <Name>Informatique</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Materiel informatique, telecom chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre équipement informatique en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Routine</Value>
+          </MetaData>
+          <Classification ID="GMC00931" UserTypeID="V2.Level">
+            <Name>Bagage et rangement informatique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Sacoche pc, rangement informatique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre rangement informatique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00590" UserTypeID="V2.Level">
+              <Name>Rangement multimédia</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Rangement multimedia, support de rangement chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Rangement multimédia : Tout l'univers du bagage et rangement informatique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00623" UserTypeID="V2.Level">
+              <Name>Sac à dos pour ordinateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Sac à dos pc, transport pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Sac à dos pour ordinateur : Tout l'univers du bagage et rangement informatique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00626" UserTypeID="V2.Level">
+              <Name>Sacoche pour ordinateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Sacoche ordinateur, bagage informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Sacoche pour ordinateur : Tout l'univers du bagage et rangement informatique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00729" UserTypeID="V2.Level">
+              <Name>Valise pour ordinateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Valise ordinateur, bagage informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Valise pour ordinateur : Tout l'univers du bagage et rangement informatique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00814" UserTypeID="V2.Level">
+            <Name>GPS et assistant d'aide à la conduite</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoires gps chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre gps sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00030" UserTypeID="V2.Level">
+              <Name>Accessoires pour GPS</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoire gps, gps chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour gps : Tout l'univers du gps et assistant d'aide à la conduite en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00376" UserTypeID="V2.Level">
+              <Name>GPS</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Gps, assistant conduite chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Gps : Tout l'univers du gps et assistant d'aide à la conduite en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00801" UserTypeID="V2.Level">
+            <Name>Image et son</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Matériel audio, matériel vidéo chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre matériel image et du son sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00015" UserTypeID="V2.Level">
+              <Name>Accessoires de projection</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoires projection, accessoire chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires de projection : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00016" UserTypeID="V2.Level">
+              <Name>Accessoires pour appareil photo et caméscope</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Appareil photo numérique, accessoires photo chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour appareil photo et caméscope : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00074" UserTypeID="V2.Level">
+              <Name>Appareil photo numérique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Appareil photo, appareil photo numerique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Appareil photo numérique : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00166" UserTypeID="V2.Level">
+              <Name>Carte mémoire et lecteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Carte memoire, lecteur carte chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Carte mémoire et lecteur : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00301" UserTypeID="V2.Level">
+              <Name>Écran de projection</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ecran de projection, accessoire projecteur chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Écran de projection : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00444" UserTypeID="V2.Level">
+              <Name>Mégaphone</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Megaphone, amplificateur chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Mégaphone : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00587" UserTypeID="V2.Level">
+              <Name>Radio</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Poste radio, equipement son chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Radio : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00616" UserTypeID="V2.Level">
+              <Name>Rétroprojecteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Retroprojecteur, appareil de projection chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Rétroprojecteur : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00631" UserTypeID="V2.Level">
+              <Name>Scanner</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Scanner, traitement image chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Scanner : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00663" UserTypeID="V2.Level">
+              <Name>Support pour écran</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support ecran, support moniteur chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour écran : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00693" UserTypeID="V2.Level">
+              <Name>Talkie-walkie</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Talkie walkie, accessoires talkie walkie chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Talkie-walkie : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00745" UserTypeID="V2.Level">
+              <Name>Vidéoprojecteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Videoprojecteur, projection image chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Vidéoprojecteur : Tout l'univers de l'image et du son en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC2301050" UserTypeID="V2.Level">
+              <Name>Écran interactif</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00815" UserTypeID="V2.Level">
+            <Name>Imprimante</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Consommable imprimante, telecopie chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre imprimante sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00031" UserTypeID="V2.Level">
+              <Name>Accessoires pour imprimante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Consommable imprimante, accessoire imprimante chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour imprimante : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00387" UserTypeID="V2.Level">
+              <Name>Imprimante jet d'encre</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Imprimante jet d'encre, impression jet d'encre chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Imprimante jet d'encre : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00388" UserTypeID="V2.Level">
+              <Name>Imprimante jet d'encre multifonction</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Imprimante multifonction, imprimante jet d'encre chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Imprimante jet d'encre multifonction : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00389" UserTypeID="V2.Level">
+              <Name>Imprimante laser</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Imprimante laser, impression laser chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Imprimante laser : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00390" UserTypeID="V2.Level">
+              <Name>Imprimante laser multifonction</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Multifonction laser, impression laser chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Imprimante laser multifonction : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00391" UserTypeID="V2.Level">
+              <Name>Imprimante matricielle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Imprimante matricielle, impression matricielle chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Imprimante matricielle : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00907" UserTypeID="V2.Level">
+            <Name>Moniteur et accessoires</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Moniteurs pc, support écran chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre moniteur et de ses accessoires sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00353" UserTypeID="V2.Level">
+              <Name>Filtre pour écran</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Filtre ecran, protection ecran chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Filtre pour écran : Tout l'univers du moniteur et de ses accessoires en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00468" UserTypeID="V2.Level">
+              <Name>Moniteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ecran ordinateur, moniteur pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Moniteur : Tout l'univers du moniteur et de ses accessoires en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00665" UserTypeID="V2.Level">
+              <Name>Support pour moniteur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support ecran pc, support moniteur pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour moniteur : Tout l'univers du moniteur et de ses accessoires en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00896" UserTypeID="V2.Level">
+            <Name>Nettoyage bureautique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Nettoyage informatique, nettoyant pc chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre nettoyage bureautique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00276" UserTypeID="V2.Level">
+              <Name>Dépoussiérant informatique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Nettoyage informatique, nettoyant pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Dépoussiérant informatique : Tout l'univers du nettoyage bureautique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00475" UserTypeID="V2.Level">
+              <Name>Nettoyant informatique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Nettoyage ordinateur, nettoyant pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Nettoyant informatique : Tout l'univers du nettoyage bureautique en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00983" UserTypeID="V2.Level">
+            <Name>Passage de câbles</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Passage de câbles - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pour une bonne organisation des fils d’installation, optez pour des passages de câbles solides et discrets. Vous trouverez sur Manutan toute une gamme de passages de câbles de qualité selon vos préférences.</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00835" UserTypeID="V2.Level">
+            <Name>PC et PC portable</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Ordinateur de bureau, pc portable chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre pc et pc portable sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00051" UserTypeID="V2.Level">
+              <Name>Adaptateur et réplicateur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Adaptateur prise, adaptateur electrique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Adaptateur et réplicateur : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00153" UserTypeID="V2.Level">
+              <Name>Câble antivol</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cable antivol, securite antivol chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Câble antivol : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00214" UserTypeID="V2.Level">
+              <Name>Clavier et souris</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Clavier pc, souris pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Clavier et souris : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00239" UserTypeID="V2.Level">
+              <Name>Connexion audio et vidéo</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cable audio, cable video chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Connexion audio et vidéo : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00313" UserTypeID="V2.Level">
+              <Name>Enceinte multimédia</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Enceinte pc, enceinte multimedia chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Enceinte multimédia : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00383" UserTypeID="V2.Level">
+              <Name>Hub</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Hub, accessoire pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Hub : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00454" UserTypeID="V2.Level">
+              <Name>Micro-casque multimédia</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Casque micro, casque pc chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Micro-casque multimédia : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00567" UserTypeID="V2.Level">
+              <Name>Porte-copie</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Porte copie, porte document chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Porte-copie : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00614" UserTypeID="V2.Level">
+              <Name>Repose-poignet et tapis de souris</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Repose poignet, tapis de souris chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Repose-poignet et tapis de souris : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00662" UserTypeID="V2.Level">
+              <Name>Support pour clavier</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support clavier, accessoire informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour clavier : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00664" UserTypeID="V2.Level">
+              <Name>Support pour imprimante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support imprimante, accessoire informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour imprimante : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00666" UserTypeID="V2.Level">
+              <Name>Support pour PC portable</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support pc portable, accessoire pc portable chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour pc portable : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00667" UserTypeID="V2.Level">
+              <Name>Support pour unité centrale</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support ordinateur, support informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support pour unité centrale : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00750" UserTypeID="V2.Level">
+              <Name>Webcam</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Webcam, peripherique informatique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Webcam : Tout l'univers du pc et du pc portable en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00831" UserTypeID="V2.Level">
+            <Name>Réseau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Matériel réseau, accessoires réseau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre matériel réseau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00047" UserTypeID="V2.Level">
+              <Name>Accessoires réseau</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Materiel reseau, equipement reseau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires réseau : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00109" UserTypeID="V2.Level">
+              <Name>Baie et coffret 19&quot;</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Baie 19&quot;, coffret 19&quot; chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Baie et coffret 19&quot; : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00238" UserTypeID="V2.Level">
+              <Name>Connectique réseau</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cablage reseau, connectique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Connectique réseau : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00472" UserTypeID="V2.Level">
+              <Name>Multiprise</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Multiprise reseau, electricite reseau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Multiprise : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00491" UserTypeID="V2.Level">
+              <Name>Onduleur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Onduleur informatique, prise parafoudre chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Onduleur : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00671" UserTypeID="V2.Level">
+              <Name>Switch</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Switch informatique, modem switch chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Switch : Tout l'univers du réseau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC2301603" UserTypeID="V2.Level">
+              <Name>Point d'accès Wi-Fi</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00874" UserTypeID="V2.Level">
+            <Name>Stockage de données</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Stockage de données, support de stockage chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre stockage de donnees sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00172" UserTypeID="V2.Level">
+              <Name>CD/DVD</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">CD DVD, support stockage chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Cd et dvd : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00223" UserTypeID="V2.Level">
+              <Name>Clé USB</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cle usb, stockage données chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Clé usb : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00287" UserTypeID="V2.Level">
+              <Name>Disque dur</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Disque dur, stockage données chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Disque dur : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00293" UserTypeID="V2.Level">
+              <Name>DVD HD &amp; Blu-ray</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Dvd hd, support hd chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Dvd hd &amp; blu-ray : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00417" UserTypeID="V2.Level">
+              <Name>Lecteur et enregistreur CD/DVD/Blu-ray</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Lecteur enregistreur, lecture multimedia chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Lecteur et enregistreur cd/dvd/blu-ray : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00657" UserTypeID="V2.Level">
+              <Name>Stockage magnétique et numérique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support magnetique, stockage multimedia chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Stockage magnétique et numérique : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC1996420" UserTypeID="V2.Level">
+              <Name>Disque dur RDX</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Disque dur, stockage données chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Disque dur : Tout l'univers du stockage de données en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC01498" UserTypeID="V2.Level">
+            <Name>Tablette</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre passage de câbles sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC2301682" UserTypeID="V2.Level">
+            <Name>Cartouche et toner</Name>
+            <Classification ID="GMC00242" UserTypeID="V2.Level">
+              <Name>Consommables pour imprimante jet d'encre</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Consommable jet d'encre, cartouche impression chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Consommables pour imprimante jet d'encre : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00243" UserTypeID="V2.Level">
+              <Name>Consommables pour imprimante laser</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Cartouche laser, consommable laser chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Consommables pour imprimante laser : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00244" UserTypeID="V2.Level">
+              <Name>Consommables pour imprimante matricielle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Consommable imprimante matricielle, cartouche matricielle chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Consommables pour imprimante matricielle : Tout l'univers de l'imprimante en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01608" UserTypeID="V2.Level">
+          <Name>Lampe</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Lampe, lampadaire, lampe de bureau chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre lampe en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Routine</Value>
+          </MetaData>
+          <Classification ID="GMC00984" UserTypeID="V2.Level">
+            <Name>Lampadaire</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Lampadaire, lampadaire bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre lampadaire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00985" UserTypeID="V2.Level">
+            <Name>Lampe de bureau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Lampe de bureau, lampe de bureau design chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre lampe de bureau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01585" UserTypeID="V2.Level">
+          <Name>Matériel bureautique</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Matériel bureautique - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Vous êtes à  la recherche de matériel bureautique de qualité? Nous avons d'excellentes fournitures à  vous proposer. Elles faciliteront vos tâches quotidiennes. Choisissez vos produits sur notre site bien fourni!</Value>
+            <Value AttributeID="V2.CategoryRole">Routine</Value>
+          </MetaData>
+          <Classification ID="GMC00986" UserTypeID="V2.Level">
+            <Name>Calculatrice et calculatrice imprimante</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Calculatrice imprimante, calculatrice de bureau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre calculatrice et calculatrice imprimante sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00885" UserTypeID="V2.Level">
+            <Name>Découpe</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Découpe - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Procurez-vous d’excellents matériels de découpe sur Manutan. Soyez sûr que ceux-ci faciliteront vos tâches quotidiennes. Fiez-vous à la qualité de nos articles.</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00544" UserTypeID="V2.Level">
+              <Name>Plaque de coupe</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tapis de découpe, plaque de coupe chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Plaque de coupe : Tout l'univers de la découpe en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00618" UserTypeID="V2.Level">
+              <Name>Rogneuse</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Rogneuse, rogneuse papier chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Rogneuse : Tout l'univers de la découpe en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC2301673" UserTypeID="V2.Level">
+              <Name>Massicot</Name>
+            </Classification>
+            <Classification ID="GMC2301678" UserTypeID="V2.Level">
+              <Name>Cisaille</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00987" UserTypeID="V2.Level">
+            <Name>Destructeur de documents</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Destructeur de documents - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Débarrassez-vous enfin de cette pile de vieux documents, grâce à  notre destructeur de papier. Nous disposons d'une large palette d'équipement. Il ne vous reste plus qu'à  faire votre choix.</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00926" UserTypeID="V2.Level">
+            <Name>Plastification</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Plastification, plastifieuse, feuille pour plastifieuse chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre matériel de plastification sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00546" UserTypeID="V2.Level">
+              <Name>Plastifieuse</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Plastifieuse, machine a plastifier chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Plastifieuse : Tout l'univers de la plastification en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00553" UserTypeID="V2.Level">
+              <Name>Pochette de plastification à chaud</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Pochette de plastification a chaud, feuille pour plastifieuse chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Pochette de plastification à chaud : Tout l'univers de la plastification en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00554" UserTypeID="V2.Level">
+              <Name>Pochette de plastification à froid</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Pochette plastification a froid, pochette plastifieuse chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Pochette de plastification à froid : Tout l'univers de la plastification en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00988" UserTypeID="V2.Level">
+            <Name>Plieuse</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Plieuse, plieuse papier chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre plieuse sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00923" UserTypeID="V2.Level">
+            <Name>Reliure</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Reliure document, matériel de reliure chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre reliure sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00522" UserTypeID="V2.Level">
+              <Name>Perforelieuse</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Perforelieuse, perforelieur chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Perforelieuse : Tout l'univers de la reliure en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00612" UserTypeID="V2.Level">
+              <Name>Reliure manuelle</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Reliure manuelle, relieuse manuelle chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Reliure manuelle : Tout l'univers de la reliure en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00710" UserTypeID="V2.Level">
+              <Name>Thermorelieuse</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Relieuse thermique, thermorelieuse chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Thermorelieuse : Tout l'univers de la reliure en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00876" UserTypeID="V2.Level">
+            <Name>Titreuse et imprimante d'étiquettes</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Titreuse et imprimante d'étiquettes - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Équipez-vous de titreuses et imprimantes d’étiquettes pour cataloguer rapidement vos cartons ou objets mis en vente. Ces accessoires optimiseront votre organisation.</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00183" UserTypeID="V2.Level">
+              <Name>Chargeur et batterie</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Batterie ordinateur portable, chargeur PC portable chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Chargeur et batterie : Tout l'univers de la titreuse et imprimante d'étiquettes en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00622" UserTypeID="V2.Level">
+              <Name>Ruban, encre et étiquette</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Ruban, encre, etiquette chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Ruban, encre et étiquette : Tout l'univers de la titreuse et imprimante d'étiquettes en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00712" UserTypeID="V2.Level">
+              <Name>Titreuse et imprimante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Etiqueteuse, titreuse, imprimante étiqueteuse chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Titreuse et imprimante : Tout l'univers de la titreuse et imprimante d'étiquettes en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01568" UserTypeID="V2.Level">
+          <Name>Mobilier de bureau</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Mobilier de bureau, amenagement bureau chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre mobilier de bureau en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+          <Classification ID="GMC00910" UserTypeID="V2.Level">
+            <Name>Banque d'accueil</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Banque d'accueil, bureau d'accueil, chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre banque d'accueil sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00832" UserTypeID="V2.Level">
+            <Name>Bureau d'aménagement</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Bureau et table de professionnels chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos bureaux et vos tables de bureau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00833" UserTypeID="V2.Level">
+            <Name>Caisson</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Caisson, rangement mobile, casier de rangement chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre caisson sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00989" UserTypeID="V2.Level">
+            <Name>Poste informatique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Meuble informatique, poste informatique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre poste informatique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00990" UserTypeID="V2.Level">
+            <Name>Table à dessin</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Table à dessin, support dessin chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre table à dessin sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00991" UserTypeID="V2.Level">
+            <Name>Table de réunion et d'accueil</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Table d'entrée, table d'accueil chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre table d'accueil sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Traffic</Value>
+            </MetaData>
+            <Classification ID="GMC00676" UserTypeID="V2.Level">
+              <Name>Table de réunion</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Bureaux Table de réunion, mobilier de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Table de réunion : Tout l'univers du mobilier de bureau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00682" UserTypeID="V2.Level">
+              <Name>Table pliante</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Bureaux Table pliante, mobilier de bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Table pliante : Tout l'univers du mobilier de bureau en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC1813175" UserTypeID="V2.Level">
+              <Name>Table d'accueil</Name>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01609" UserTypeID="V2.Level">
+          <Name>Monétique</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Monétique, caisse enregistreuse, tiroir-caisse chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre equipement monétique en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC00992" UserTypeID="V2.Level">
+            <Name>Boîte à monnaie</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Caisse à monnaie, boite a monnaie chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre boite à monnaie sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00993" UserTypeID="V2.Level">
+            <Name>Caisse enregistreuse et tiroir-caisse</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Caisse enregistreuse, tiroir caisse chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre caisse enregistreuse et tiroir-caisse sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00994" UserTypeID="V2.Level">
+            <Name>Monnaie et compteuse-trieuse</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Compteuse de billets, compteuse de pièces, trieuse de monnaie chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre compteuse-trieuse sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01610" UserTypeID="V2.Level">
+          <Name>Portemanteau et patère</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Portemanteau et patère - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Equipez vos espaces collectifs de portemanteaux et de vestiaires afin de les garder propres et ordonnés. Vos employés seront ravis de disposer d'un rangement pour classer leurs affaires personnelles.</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC00995" UserTypeID="V2.Level">
+            <Name>Patère</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Patère - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pour suspendre des manteaux, des blouses ou encore des sacs, les patères sont idéales. On peut les placer partout. Aussi, ils permettent de garder un espace propre et ordonné.</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00996" UserTypeID="V2.Level">
+            <Name>Portant</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Portant - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Pour suspendre vos manteaux et chapeaux, équipez-vous de portants de qualité. Découvrez notre large catalogue de produits. Différents modèles de portemanteau vous sont proposés.</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00997" UserTypeID="V2.Level">
+            <Name>Portemanteau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Portemanteau - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Gardez vos locaux ordonnés en vous procurant des portemanteaux. Manutan vous propose diverses sortes de fournitures qui s’accommoderont parfaitement à vos bureaux.</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00998" UserTypeID="V2.Level">
+            <Name>Porte-parapluie</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Porte-parapluie, Porte-parapluie accueil chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre porte-parapluie sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01564" UserTypeID="V2.Level">
+          <Name>Présentoir</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Présentoir - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Pour avoir à  portée de main la liste de tous vos produits, il n'y a rien de plus pratique que les présentoirs. Manutan vous propose une large gamme d'accessoires de qualité. Il ne vous reste plus qu'à  faire votre choix !</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC00999" UserTypeID="V2.Level">
+            <Name>Présentoir de table</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chevalet de table, présentoir mural chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre présentoir de table sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01000" UserTypeID="V2.Level">
+            <Name>Présentoir mobile</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Presentoir mobile, porte brochures chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre présentoir mobile sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01001" UserTypeID="V2.Level">
+            <Name>Présentoir mural</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Porte affiche, présentoir mural chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre présentoir mural sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01002" UserTypeID="V2.Level">
+            <Name>Présentoir sur pieds</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Présentoir sur pied, porte brochure chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre présentoir sur pieds sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00823" UserTypeID="V2.Level">
+            <Name>Système de consultation</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Pupitre de table, support de lecture chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre systeme de consultation sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Routine</Value>
+            </MetaData>
+            <Classification ID="GMC00039" UserTypeID="V2.Level">
+              <Name>Accessoires pour système de consultation</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support affiche, support affichage chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour système de consultation : Tout l'univers du système de consultation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00556" UserTypeID="V2.Level">
+              <Name>Pochette pour système de consultation</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Système affichage, presentoir bureau chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Pochette pour système de consultation : Tout l'univers du système de consultation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00661" UserTypeID="V2.Level">
+              <Name>Support mural et de table</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Support mural, support de table chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Support mural et de table : Tout l'univers du système de consultation en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01611" UserTypeID="V2.Level">
+          <Name>Siège et fauteuil</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Siège, fauteuil et repose-pieds - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Le design et le confort de vos mobiliers reflètent l'image de votre entreprise et sont déterminants pour motiver vos employés. Choisissez sur notre boutique en ligne des sièges, fauteuil et repose-pied haut de gamme.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC01003" UserTypeID="V2.Level">
+            <Name>Accessoires pour siège</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoires pour siège, accessoire siège chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour siège sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01004" UserTypeID="V2.Level">
+            <Name>Chaise visiteurs et polyvalente</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chaise polyvalente, chaise pliante chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre chaise polyvalente sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01006" UserTypeID="V2.Level">
+            <Name>Chauffeuse et canapé</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chauffeuse et canapé, chauffeuse, canapé chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre chauffeuse sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01007" UserTypeID="V2.Level">
+            <Name>Fauteuil de direction</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Fauteuil de direction- Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Même en position assise, il est toujours nécessaire de travailler dans le confort. Choisissez des fauteuils ajustables pour vos bureaux. Manutan dispose d'un large catalogue de produits.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01009" UserTypeID="V2.Level">
+            <Name>Siège d'accueil</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Siège d'accueil, sièges métal sur poutre, canapés Symphonie chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre siège d'accueil sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01010" UserTypeID="V2.Level">
+            <Name>Siège de bureau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Siège de bureau - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Oubliez vos douleurs au dos, en vous offrant un siège de bureau ultraconfortable. Choisissez le modèle qui vous convient le mieux, parmi notre sélection de produits.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01612" UserTypeID="V2.Level">
+          <Name>Signalisation</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Signalétique entreprise, signalisation entreprise chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre matériel de signalisation en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC01011" UserTypeID="V2.Level">
+            <Name>Panneau développement durable</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Panneau développement durable, panneaux de signalisation développement durable chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre panneau développement durable sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01012" UserTypeID="V2.Level">
+            <Name>Plaque de porte</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Plaque de porte, plaque porte chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre plaque de porte sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01013" UserTypeID="V2.Level">
+            <Name>Plaque signalétique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Plaque signalétique, plaque signalétique plexiglas chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre plaque signaletique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01613" UserTypeID="V2.Level">
+          <Name>Store</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Store fenetre, store de bureau chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre store en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+        </Classification>
+        <Classification ID="GMC01563" UserTypeID="V2.Level">
+          <Name>Tableau et chevalet</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Tableau et chevalet- Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Le tableau ou chevalet reste le support idéal pour illustrer une démonstration. Découvrez notre sélection de paperboard, tableaux magnétiques ou chevalets de conférence sur notre site de vente en ligne.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC01015" UserTypeID="V2.Level">
+            <Name>Accessoires pour tableau</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoires tableaux, accessoires pour tableau chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour tableau sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01016" UserTypeID="V2.Level">
+            <Name>Chevalet de conférence</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Chevalet de conférence - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Le chevalet de conférence est l'élément indispensable d'un bureau modèle. Vous trouverez le modèle qu'il vous faut parmi ceux que nous vous proposons.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00820" UserTypeID="V2.Level">
+            <Name>Planning</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Planning de travail, tableau planning chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre tableau de planning sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+            <Classification ID="GMC00036" UserTypeID="V2.Level">
+              <Name>Accessoires pour planning</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoire tableau, planning travail chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour planning : Tout l'univers du planning en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00542" UserTypeID="V2.Level">
+              <Name>Planning à fiches T</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Planning fiche t, organisation de travail chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Planning à fiches t : Tout l'univers du planning en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00543" UserTypeID="V2.Level">
+              <Name>Planning perpétuel</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Planning perpetuel, planning travail chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Planning perpétuel : Tout l'univers du planning en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC01017" UserTypeID="V2.Level">
+            <Name>Tableau blanc</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Tableau blanc - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Le tableau blanc est une fourniture de bureau incontournable de la gamme de produits Manutan. Il trouve facilement son utilité dans différents espaces de votre entreprise.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01018" UserTypeID="V2.Level">
+            <Name>Tableau spécifique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Tableau d'affichage, tableau de présentation chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre tableau specifique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01019" UserTypeID="V2.Level">
+            <Name>Tableau vert</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Tableau vert - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Equipez vos salles de réunion ou de formation de tableau vert haut de gamme. Choisissez le modèle qui vous convient le mieux, parmi notre sélection de produits.</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01603" UserTypeID="V2.Level">
+          <Name>Tapis</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Tapis - Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Le tapis est un élément de décoration non négligeable. Cependant, il assure aussi bien d'autres rôles: il protège des chutes et salissures...</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC00971" UserTypeID="V2.Level">
+            <Name>Caillebotis pour collectivité</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Caillebotis pour collectivité, caillebotis collectivité chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre caillebotis pour collectivité sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01021" UserTypeID="V2.Level">
+            <Name>Tapis de protection</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Tapis de protection, tapis de sol chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre tapis de protection sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00940" UserTypeID="V2.Level">
+            <Name>Tapis d'entrée</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Tapis d'entrée - Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Le prestige d'un établissement peut se mesurer par l'esthétisme de son entrée. Trouvez sur Manutan le tapis d'entrée qui participera à  l'embellissement de votre entreprise.</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00696" UserTypeID="V2.Level">
+              <Name>Tapis absorbant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tapis absorbant, tapis ultra absorbant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Tapis absorbant : Tout l'univers du tapis d'entrée en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00697" UserTypeID="V2.Level">
+              <Name>Tapis absorbant et antidérapant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tapis absorbant et antidérapant, tapis absorbant, antidérapant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Tapis absorbant et antidérapant : Tout l'univers du tapis d'entrée en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00699" UserTypeID="V2.Level">
+              <Name>Tapis antidérapant</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Tapis antidérapant, Tapis anti-derapant chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Tapis antidérapant : Tout l'univers du tapis d'entrée en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC2531981" UserTypeID="V2.Level">
+            <Name>Tapis antifatigue</Name>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01566" UserTypeID="V2.Level">
+          <Name>Téléphonie</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Telephonie, matériel telephonique chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre téléphonie en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Service</Value>
+          </MetaData>
+          <Classification ID="GMC01022" UserTypeID="V2.Level">
+            <Name>Accessoires micro-casque</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Microcasque, casque pc chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour micro-casque sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01023" UserTypeID="V2.Level">
+            <Name>Accessoires téléphonie</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoires telephone, accessoires telephonique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires telephonie sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01024" UserTypeID="V2.Level">
+            <Name>Audioconférence</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Conférence téléphonique, audioconférence chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre matériel d'audioconférence sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01025" UserTypeID="V2.Level">
+            <Name>Cabine téléphonique</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Cabine téléphonique, support telephone chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre cabine téléphonique sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01026" UserTypeID="V2.Level">
+            <Name>Dictaphone</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Dictaphone, enregistreur numérique chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre dictaphone sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00888" UserTypeID="V2.Level">
+            <Name>Fax</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Fax, telecopieur chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre fax sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00241" UserTypeID="V2.Level">
+              <Name>Consommables pour fax</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Consommable fax, accessoire telecopie chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Consommables pour fax : Tout l'univers du fax en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00338" UserTypeID="V2.Level">
+              <Name>Fax laser</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Fax laser, telecopie laser chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Fax laser : Tout l'univers du fax en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00339" UserTypeID="V2.Level">
+              <Name>Fax thermique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Fax thermique, telecopie chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Fax thermique : Tout l'univers du fax en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC01027" UserTypeID="V2.Level">
+            <Name>Micro-casque filaire</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Casque audio filaire, casque filaire chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre micro-casque filaire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01028" UserTypeID="V2.Level">
+            <Name>Micro-casque sans fil</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Micro casque sans fil, casques sans fil chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre micro-casque sans fil sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01029" UserTypeID="V2.Level">
+            <Name>Microphone et haut-parleur</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Hauts parleurs, microphones chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre microphone et haut-parleur sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00942" UserTypeID="V2.Level">
+            <Name>Téléphonie fixe</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Telephone fixe, telephone filaire chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre téléphonie fixe sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00702" UserTypeID="V2.Level">
+              <Name>Téléphone fixe analogique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Telephonie fixe, telephone analogique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Téléphone fixe analogique : Tout l'univers du téléphonie fixe en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00703" UserTypeID="V2.Level">
+              <Name>Téléphone fixe numérique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Telephone numerique, telephone fixe chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Téléphone fixe numérique : Tout l'univers du téléphonie fixe en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC2301039" UserTypeID="V2.Level">
+              <Name>Téléphone fixe IP</Name>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00828" UserTypeID="V2.Level">
+            <Name>Téléphonie mobile</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Telephonie mobile, accessoire gsm chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre téléphonie mobile sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00044" UserTypeID="V2.Level">
+              <Name>Accessoires pour téléphonie mobile</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Accessoire mobile, telephonie mobile chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Accessoires pour téléphonie mobile : Tout l'univers de la téléphonie mobile en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00378" UserTypeID="V2.Level">
+              <Name>GSM</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Gsm, telephone mobile chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Gsm : Tout l'univers de la téléphonie mobile en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00648" UserTypeID="V2.Level">
+              <Name>Smartphone</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Smartphone, telephones mobiles chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Smartphone : Tout l'univers de la téléphonie mobile en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+          </Classification>
+          <Classification ID="GMC00941" UserTypeID="V2.Level">
+            <Name>Téléphonie sans fil</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Telephone sans fil, téléphones fixes chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre téléphonie sans fil sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Service</Value>
+            </MetaData>
+            <Classification ID="GMC00701" UserTypeID="V2.Level">
+              <Name>Téléphone DECT</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Telephone dect, telephonie sans fil chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Téléphone dect : Tout l'univers de la téléphonie sans fil en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC00704" UserTypeID="V2.Level">
+              <Name>Téléphone sans fil numérique</Name>
+              <MetaData>
+                <Value AttributeID="V2.Cl.SeoTitle">Telephone sans fil, telephone numerique chez Manutan</Value>
+                <Value AttributeID="V2.Cl.SeoDescription">Téléphone sans fil numérique : Tout l'univers de la téléphonie sans fil en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+              </MetaData>
+            </Classification>
+            <Classification ID="GMC2301048" UserTypeID="V2.Level">
+              <Name>Téléphone sans fil IP</Name>
+            </Classification>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC01584" UserTypeID="V2.Level">
+          <Name>Vestiaire de bureau</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Vestiaire, vestiaire multicases, vestiaire 1 porte chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Achetez votre equipement pour vestiaire en ligne parmi 80 000 références et au meilleur prix avec Manutan, spécialiste de la vente à distance.</Value>
+            <Value AttributeID="V2.CategoryRole">Destination</Value>
+          </MetaData>
+          <Classification ID="GMC01030" UserTypeID="V2.Level">
+            <Name>Socle, banc et coiffe</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Accessoires pour vestiaire, accessoires vestiaire chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez vos accessoires pour vestiaire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01031" UserTypeID="V2.Level">
+            <Name>Combiné banc et patères</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Combiné banc et patères, combiné banc, patères chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre banc et patères sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01033" UserTypeID="V2.Level">
+            <Name>Vestiaire monocase</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vestiaire 1 porte, vestiaires monobloc chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vestiaire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00873" UserTypeID="V2.Level">
+            <Name>Vestiaire multicases</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vestiaire multicases, vestiaires multicases à monter, vestiaire multicases bois chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vestiaire multicases sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC01034" UserTypeID="V2.Level">
+            <Name>Vestiaire consigne et multimédia</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Vestiaire spécifique, vestiaire  chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Commandez votre vestiaire sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+              <Value AttributeID="V2.CategoryRole">Destination</Value>
+            </MetaData>
+          </Classification>
+          <Classification ID="GMC00167" UserTypeID="V2.Level">
+            <Name>Casier à assembler</Name>
+            <MetaData>
+              <Value AttributeID="V2.Cl.SeoTitle">Cases à assembler, cases assembler chez Manutan</Value>
+              <Value AttributeID="V2.Cl.SeoDescription">Cases à assembler : Tout l'univers du vestiaire multicases en ligne, faites votre sélection parmi plus de 80 000 références et faites-vous livrer gratuitement : Manutan, le spécialiste de la vente à distance.</Value>
+            </MetaData>
+          </Classification>
+        </Classification>
+        <Classification ID="GMC00973" UserTypeID="V2.Level">
+          <Name>Élection</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Matériel pour élection, matériel élection chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Commandez votre matériel pour élection sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+            <Value AttributeID="V2.CategoryRole">Traffic</Value>
+          </MetaData>
+        </Classification>
+        <Classification ID="GMC01008" UserTypeID="V2.Level">
+          <Name>Repose-pieds</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Repose-pieds, repose pied chez Manutan</Value>
+            <Value AttributeID="V2.Cl.SeoDescription">Commandez votre repose-pieds sur le site Manutan et bénéficiez de tous nos avantages : 80 000 références, livraison gratuite, satisfait ou remboursé !</Value>
+            <Value AttributeID="V2.CategoryRole">Routine</Value>
+          </MetaData>
+        </Classification>
+        <Classification ID="GMC2295073" UserTypeID="V2.Level">
+          <Name>Rayonnage de bureau</Name>
+          <MetaData>
+            <Value AttributeID="V2.Cl.SeoTitle">Rayonnage de bureau - Manutan</Value>
+          </MetaData>
+          <Classification ID="GMC2301077" UserTypeID="V2.Level">
+            <Name>Rayonnage pour salle d'archive</Name>
+          </Classification>
+          <Classification ID="GMC2301085" UserTypeID="V2.Level">
+            <Name>Rayonnage pour bureau</Name>
+          </Classification>
+          <Classification ID="GMC2301093" UserTypeID="V2.Level">
+            <Name>Accessoires pour rayonnage</Name>
+            <Classification ID="GMC2301095" UserTypeID="V2.Level">
+              <Name>Tablette</Name>
+            </Classification>
+            <Classification ID="GMC2301126" UserTypeID="V2.Level">
+              <Name>Renfort</Name>
+            </Classification>
+            <Classification ID="GMC2301130" UserTypeID="V2.Level">
+              <Name>Échelle et montant</Name>
+            </Classification>
+            <Classification ID="GMC2301146" UserTypeID="V2.Level">
+              <Name>Porte et panneau</Name>
+            </Classification>
+            <Classification ID="GMC2301175" UserTypeID="V2.Level">
+              <Name>Pied et plinthe</Name>
+            </Classification>
+          </Classification>
+        </Classification>
+      </Classification>
+</Classifications>

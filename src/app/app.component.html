@@ -1,0 +1,20 @@
+<div class="row" *ngIf ="currentUser">
+	<div  class="col-md-8">
+		Welcome <strong>{{ currentUser.username | uppercase}}</strong><br>
+		Structure : <strong>{{ currentUser.structure | uppercase}}</strong>
+	</div>
+	<div class="col-md-4">
+		<!--<button type="button" class="btn btn-info" *ngIf="ifAdmin" (click) = "administrer()">Admin</button>-->
+		<span class="text-left">
+		<button type="button" class="btn btn-info" *ngIf="currentUser.admin" (click) = "administrer()">Admin</button>
+		<button type="button" class="btn btn-warning" (click) = "logout()">Log Out</button> 
+		</span>
+ 
+	</div>
+</div>
+
+<div >
+         
+  <router-outlet></router-outlet>
+	
+</div>

@@ -1,0 +1,36 @@
+
+<div class="task-list">
+  <h1>List of Tasks!</h1>
+  <form class="well" (submit) = addTask($event)>
+    <div class="form-group">
+      <input type="text" class="form-group" [(ngModel)] = "desc" name="desc" placeholder="Add Task" required size="150px">  
+    </div>  
+  </form>    
+        <table class="table">
+            <thead class="thead-inverse">
+              <tr>
+                <th>-</th>
+                <th>tache</th>
+                <th>Description</th>
+                <th>Editer</th>                
+                <th>Supprimer</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let task of tasks">
+                <th scope="row"><input type="checkbox"></th>
+                <td>{{task._id }}</td>
+                <td>{{task.desc}}</td>
+                <td><button type="button" class="btn btn-success">Edit</button></td>
+                <td><button type="button" class="btn btn-danger" (click) = "deleteTask(task._id)" >X</button></td>
+              </tr>
+              
+            </tbody>
+          </table>
+
+  <!-- <ul>
+    <li *ngFor="let task of tasks">{{ task.title }} : {{task.desc}}</li>
+  </ul>
+  <button type="button" class="btn btn-link">Link</button> -->
+
+</div>
